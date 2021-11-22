@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @manasakani, a doctoral student in Electrical Engineering at ETH Zurich
-- 🙌 I’m interested in ab-initio simulations, from molecular dynamics to quantum transport
+- 🙌 I’m interested in physics simulations, from molecular dynamics to quantum transport
 - 🤝 I can be reached at mkaniselvan@iis.ee.ethz.ch 
